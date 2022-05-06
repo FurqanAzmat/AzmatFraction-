@@ -1,3 +1,3 @@
 # AzmatFraction-
 
-Fraction program that will reduce/add/muliplt fractions
+Fraction program that will reduce/add/muliply fractions
